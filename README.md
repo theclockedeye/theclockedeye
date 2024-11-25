@@ -18,7 +18,7 @@
     gap: 20px;
     margin: 30px;
 ">
-  <a href="https://codepen.io/arungeorge034" target="blank">
+  <a href="https://codepen.io/arungeorge034" target="blank" border="1px solid white">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arungeorge034" height="30" width="40" />
   </a>
   <a href="https://dev.to/arungeorge" target="blank">
