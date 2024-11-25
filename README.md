@@ -12,7 +12,12 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" margin="30px">
+<p align="left" style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 20px;
+    margin: 30px;
+">
   <a href="https://codepen.io/arungeorge034" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arungeorge034" height="30" width="40" />
   </a>
@@ -62,7 +67,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arungeorge034/profile" height="40" width="60" />
   </a>
   <a href="https://www.topcoder.com/members/arungeorge034" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="arungeorge034" height="40" width="60" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="arungeorge034" height="40" width="60"/>
   </a>
 </p>
 
