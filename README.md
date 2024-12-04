@@ -19,7 +19,8 @@ Based in Pathanamthitta, Kerala, I'm currently pursuing my degree in Computer Sc
 
 ## Skills & Technologies
 
-css,
+<img src="https://img.icons8.com/ios-filled/50/ffffff/css3.png" alt="CSS" width="30px">
+
 js,
 html,
 java,
