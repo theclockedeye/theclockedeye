@@ -19,80 +19,81 @@ Based in Pathanamthitta, Kerala, I'm currently pursuing my degree in Computer Sc
 
 ## Skills & Technologies
 
-<p align="left">
+
+  <a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">CSS</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">JavaScript</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">HTML</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/java.png" alt="Java" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">Java</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">Git</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/github.png" alt="GitHub" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">GitHub</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">React</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/tailwindcss.png" alt="Tailwind CSS" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">Tailwind CSS</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">Bootstrap</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/express-js.png" alt="Express.js" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">Express.js</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/postgresql.png" alt="PostgreSQL" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">PostgreSQL</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/c.png" alt="C" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">C</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">C++</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">Python</span>
-</p>
+</a>
 
-<p align="left">
+<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
   <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" width="30px">
   <span style="font-size: 14px; margin-left: 8px;">Node.js</span>
-</p>
+</a>
 
 
 ## Top Projects
