@@ -109,7 +109,15 @@
 </div>  
   
 
-<a href="https://github.com/gfhjdngfh" target="_blank">
+
+  
+
+<br/>  
+
+
+## Coding Platforms  
+
+  <a href="https://github.com/gfhjdngfh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/dnfghfg" target="_blank">
@@ -154,13 +162,6 @@
 <a href="https://www.youtube.com/user/dfhgdfnghndf" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
-
-
-## Coding Platforms  
-  
 
 <br/>  
 
@@ -179,4 +180,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
