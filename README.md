@@ -9,9 +9,7 @@
                                                        |___/      
 ```
 
-<div align="center">
-  <img height="100" src="https://www.bing.com/th/id/OGC.e8d5a3b3a383211eb74d02a26115defa?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f209%2f209661.gif&ehk=DFGFs9iTBLnfx4H4LK29vp0ojIxqM6utdgfXNMxq6ac%3d"  />
-</div>
+
 
 ###
 
