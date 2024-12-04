@@ -19,7 +19,21 @@ Based in Pathanamthitta, Kerala, I'm currently pursuing my degree in Computer Sc
 
 ## Skills & Technologies
 
-css,js,html,java,git,github,react,tailwind,bootstrap,express,postgres,c,cpp,py,nodejs
+css,
+js,
+html,
+java,
+git,
+github,
+react,
+tailwind,
+bootstrap,
+express,
+postgres,
+c,
+cpp,
+py,
+nodejs
 
 ## Top Projects
 
