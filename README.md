@@ -19,22 +19,81 @@ Based in Pathanamthitta, Kerala, I'm currently pursuing my degree in Computer Sc
 
 ## Skills & Technologies
 
-<img src="https://img.icons8.com/ios-filled/50/ffffff/css3.png" alt="CSS" width="30px">
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">CSS</span>
+</p>
 
-js,
-html,
-java,
-git,
-github,
-react,
-tailwind,
-bootstrap,
-express,
-postgres,
-c,
-cpp,
-py,
-nodejs
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">JavaScript</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">HTML</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/java.png" alt="Java" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">Java</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">Git</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/github.png" alt="GitHub" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">GitHub</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">React</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/tailwindcss.png" alt="Tailwind CSS" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">Tailwind CSS</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">Bootstrap</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/express-js.png" alt="Express.js" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">Express.js</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/postgresql.png" alt="PostgreSQL" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">PostgreSQL</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/c.png" alt="C" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">C</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">C++</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">Python</span>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" width="30px">
+  <span style="font-size: 14px; margin-left: 8px;">Node.js</span>
+</p>
+
 
 ## Top Projects
 
