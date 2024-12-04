@@ -9,105 +9,71 @@
                                                        |___/      
 ```
 
-## Hi there! 👋
+<div align="center">
+  <img height="100" src="https://www.bing.com/th/id/OGC.e8d5a3b3a383211eb74d02a26115defa?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f209%2f209661.gif&ehk=DFGFs9iTBLnfx4H4LK29vp0ojIxqM6utdgfXNMxq6ac%3d"  />
+</div>
 
-I'm Arun George, a passionate final year Computer Science Engineering student with a keen interest in web development and design. I love creating elegant solutions that enhance user experiences.
+###
 
-## About Me
+<h1 align="center">hey there 👋</h1>
 
-Based in Pathanamthitta, Kerala, I'm currently pursuing my degree in Computer Science Engineering. I enjoy exploring new technologies and applying my skills to real-world problems. You can check out my portfolio [here](https://myportfolio-b8e1b.web.app).
+###
 
-## Skills & Technologies
+<img align="right" height="150" src="https://www.bing.com/th/id/OGC.e8d5a3b3a383211eb74d02a26115defa?pid=1.7&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f209%2f209661.gif&ehk=DFGFs9iTBLnfx4H4LK29vp0ojIxqM6utdgfXNMxq6ac%3d"  />
 
+###
 
- <a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30px">
-</a>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30px">
-</a>
+###
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30px">
-</a>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30px">
-</a>
+###
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="30px">
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/arungeorge034" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@clocked-eye" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://arungeorge034@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/__arun.george?igsh=aDI2ZjkxYjczaHB0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30px">
-</a>
+###
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30px">
-</a>
+<h3 align="left">🛠 Language and tools</h3>
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="30px">
-</a>
+###
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="30px">
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="30px">
-</a>
+###
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="30px">
-</a>
+<h3 align="left">🔥   My Stats :</h3>
 
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/c.png" alt="C" width="30px">
-</a>
-
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30px">
-</a>
-
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30px">
-</a>
-
-<a href="#" style="text-decoration: none; display: inline-flex; align-items: center; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30px">
-</a>
-
-
-
-## Top Projects
-
-- [CSSForge](https://github.com/theclockedeye/CSSForge) - A lightweight, modular CSS library for elegant web designs. ⭐️ 0 stars | Language: CSS
-- [Lab Management System](https://github.com/theclockedeye/Lab-Management-System) - A comprehensive system for managing laboratory operations. ⭐️ 0 stars | Language: JavaScript
-- [OPTIFY](https://github.com/theclockedeye/OPTIFY) - An innovative web application aimed at optimizing user workflows. ⭐️ 0 stars | Language: Java
-
-## GitHub Stats
-
-🌟 Public Repositories: 4
-👥 Followers: 0
-👤 Following: 3
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theclockedeye&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## Connect with Me
-
-- [Instagram](https://www.instagram.com/__arun.george?igsh=aDI2ZjkxYjczaHB0)
-- [YouTube](https://www.youtube.com/@clocked-eye)
-- [LinkedIn](www.linkedin.com/in/arungeorge034)
-
-## Coding Platforms
-
-- [LeetCode](https://leetcode.com/u/arungeorge034/)
-- [HackerRank](https://www.hackerrank.com/profile/arungeorge034)
-- [CodeWars](https://www.codewars.com/users/arungeorge)
-- [CodeChef](https://www.codechef.com/users/arungeorge034)
-- [CodeCrafters](https://app.codecrafters.io/users/theclockedeye)
-- [HackerEarth](https://www.hackerearth.com/@arungeorge034/)
-- [FrontEnd Mentor](https://www.frontendmentor.io/profile/theclockedeye)
+###
