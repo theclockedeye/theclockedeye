@@ -1,27 +1,52 @@
-# 💫 About Me:
-A Final Year CSE Student<br>Full Stack Development<br>UI/Ux Design
+## 
 
+```
+  _   _               _            _            _                 
+ | |_| |__   ___  ___| | ___   ___| | _____  __| | ___ _   _  ___ 
+ | __| '_ \ / _ \/ __| |/ _ \ / __| |/ / _ \/ _` |/ _ \ | | |/ _ \
+ | |_| | | |  __/ (__| | (_) | (__|   <  __/ (_| |  __/ |_| |  __/
+  \__|_| |_|\___|\___|_|\___/ \___|_|\_\___|\__,_|\___|\__, |\___|
+                                                       |___/      
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__arun.george) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arungeorge034) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arungeorge) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arungeorge034) 
+## Hi there! 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theclockedeye&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theclockedeye&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theclockedeye&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I'm Arun George, a passionate final year Computer Science Engineering student with a keen interest in web development and design. I love creating elegant solutions that enhance user experiences.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theclockedeye&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+## About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Based in Pathanamthitta, Kerala, I'm currently pursuing my degree in Computer Science Engineering. I enjoy exploring new technologies and applying my skills to real-world problems. You can check out my portfolio [here](https://myportfolio-b8e1b.web.app).
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=theclockedeye&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+## Skills & Technologies
 
----
-[![](https://visitcount.itsvg.in/api?id=theclockedeye&icon=10&color=3)](https://visitcount.itsvg.in)
+css,js,html,java,git,github,react,tailwind,bootstrap,express,postgres,c,cpp,py,nodejs
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Top Projects
+
+- [CSSForge](https://github.com/theclockedeye/CSSForge) - A lightweight, modular CSS library for elegant web designs. ⭐️ 0 stars | Language: CSS
+- [Lab Management System](https://github.com/theclockedeye/Lab-Management-System) - A comprehensive system for managing laboratory operations. ⭐️ 0 stars | Language: JavaScript
+- [OPTIFY](https://github.com/theclockedeye/OPTIFY) - An innovative web application aimed at optimizing user workflows. ⭐️ 0 stars | Language: Java
+
+## GitHub Stats
+
+🌟 Public Repositories: 4
+👥 Followers: 0
+👤 Following: 3
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theclockedeye&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## Connect with Me
+
+- [Instagram](https://www.instagram.com/__arun.george?igsh=aDI2ZjkxYjczaHB0)
+- [YouTube](https://www.youtube.com/@clocked-eye)
+- [LinkedIn](www.linkedin.com/in/arungeorge034)
+
+## Coding Platforms
+
+- [LeetCode](https://leetcode.com/u/arungeorge034/)
+- [HackerRank](https://www.hackerrank.com/profile/arungeorge034)
+- [CodeWars](https://www.codewars.com/users/arungeorge)
+- [CodeChef](https://www.codechef.com/users/arungeorge034)
+- [CodeCrafters](https://app.codecrafters.io/users/theclockedeye)
+- [HackerEarth](https://www.hackerearth.com/@arungeorge034/)
+- [FrontEnd Mentor](https://www.frontendmentor.io/profile/theclockedeye)
