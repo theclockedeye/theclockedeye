@@ -119,7 +119,7 @@
 
 ## Coding Platforms  
 
-  <a href="https://github.com/gfhjdngfh" target="_blank">
+  <a href="https://leetcode.com/u/arungeorge034/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=LeetCode style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/dnfghfg" target="_blank">
