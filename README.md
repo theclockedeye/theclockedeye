@@ -97,7 +97,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/arungeorge034" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />LINKEDIN
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/__arun.george" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -120,7 +120,7 @@
 ## Coding Platforms  
 
   <a href="https://github.com/gfhjdngfh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=LeetCode style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=LeetCode style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/dnfghfg" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
