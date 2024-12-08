@@ -21,7 +21,7 @@
   
   
 
-# 💫 About Me:
+# 💫 About_Me:
 A Final Year CS Student<br><br> ->Full Stack Development <br>->UI/UX Design <br>->Android Development
 
 
