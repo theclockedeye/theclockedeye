@@ -14,7 +14,7 @@
 
 
 <div align="right">
-<img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left" style="width: 50%" />
+<img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" style="width: 80%" />
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="right" style="width: 50%" />
 </div>  
   
