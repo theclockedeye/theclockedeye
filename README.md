@@ -14,7 +14,7 @@
 
 
 <div align="right">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="right" style="width: 40%" />
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="right" style="width: 40%;border:2px solid white;" />
 </div>  
   
 
