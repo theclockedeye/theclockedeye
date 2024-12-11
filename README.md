@@ -41,7 +41,7 @@ A Final Year CS Student<br><br> ->Full Stack Development <br>->UI/UX Design <br>
   [![CodeWars](https://img.shields.io/badge/Codewars-brown.svg?style=for-the-badge&logo=codewars&logoColor=black)](https://www.codewars.com/users/arungeorge)
   [![CSSBattle](https://img.shields.io/badge/CSSBattle-yellow.svg?style=for-the-badge&logo=&logoColor=black)](https://cssbattle.dev/player/arungeorge)
   [![CodeCrafters](https://img.shields.io/badge/codecrafters-grey.svg?style=for-the-badge&logo=c&logoColor=white)](https://app.codecrafters.io/users/theclockedeye)
-  [![HackerEarth](https://img.shields.io/badge/hacker_earth-blue.svg?style=for-the-badge&logo=hacker&logoColor=black)](https://www.hackerearth.com/@arungeorge034/)
+  [![HackerEarth](https://img.shields.io/badge/hacker_earth-blue.svg?style=for-the-badge&logo=hackerearth&logoColor=black)](https://www.hackerearth.com/@arungeorge034/)
   [![CodeChef](https://img.shields.io/badge/codechef-brown.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arungeorge034)
 
     
