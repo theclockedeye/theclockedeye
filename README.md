@@ -14,7 +14,7 @@
 
 
 <div align="right">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="right" style="width: 40%;border:2px solid white;" />
+  <img src="https://tenor.com/view/programming-gif-24916992.gif" align="right" style="width: 80%;border:2px solid white;" />
 </div>  
   
 
@@ -48,8 +48,9 @@ A Final Year CS Student<br><br> ->Full Stack Development <br>->UI/UX Design <br>
 
 
 
+#  RoadMaps 
 
-
+[![roadmap.sh](https://roadmap.sh/card/wide/674753d050394310750bc286?variant=dark&roadmaps=python%2Creact%2Caws%2Cux-design)](https://roadmap.sh)
 
 
 
